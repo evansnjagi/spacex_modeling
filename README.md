@@ -3,7 +3,7 @@
 ----------------------------
 This project is aimed to model space x data and make prediction for any successful landing of falcon 9. This infomation will be used by another company Space Y which is a compettior to spaceX to make more infomed decision on what to invest in. On averange spaceX landing take about $ 63 million where for other companies it consumes more than $ 165 million.Much saving is because spaceX can reuse the first/initial stage. So my main focus is to determine is the first stage will be a succes and if I am able to do so, them I can as well determine the cost of the whole process.
 
-The first step is to web scrap and get data from spaceX api keys.
+The first step is to web scrap and get data from spaceX api.
 This are our objectives for the first mining:
 (getting)
 - Booster version from the rocket database
